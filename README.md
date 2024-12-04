@@ -17,7 +17,7 @@
             <li><strong>Chieu cao:</strong> <span>170cm</span></li>  
             <li><strong>Can nang:</strong> <span>65kg</span></li>
 	  
-	<li><strong>Mọi thắc mắc xin vui lòng liên hệ:</strong></li>
+	
 <p><a href="https://www.facebook.com/daothanhhoangpro?mibextid=ZbWKwL"> Facebook cua Hoang</a></p> 
     </main>  
 </body>  
