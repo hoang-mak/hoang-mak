@@ -18,7 +18,7 @@
             <li><strong>Cân nặng:</strong> <span>75kg</span></li>
 	  
 	
-<p><a href="https://www.facebook.com/chauhuu.phucthinh?mibextid=ZbWKwL"> Facebookcủa Thịnh</a></p> 
+<p><a href="https://www.facebook.com/chauhuu.phucthinh?mibextid=ZbWKwL"> Facebook của Thịnh</a></p> 
     </main>  
 </body>  
 </html>
