@@ -6,7 +6,7 @@
 <head>
 <body>  
     <div>  
-        <h>1Châu Hữu Phúc Thịnh</h1>  
+        <h>Châu Hữu Phúc Thịnh</h1>  
     </div>  
     <main>  
         <h2>Thông tin cá nhân</h2>  
