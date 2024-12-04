@@ -6,19 +6,19 @@
 <head>
 <body>  
     <div>  
-        <h>1Dao Thanh Hoang</h1>  
+        <h>1Chau Huu Phuc Thinh</h1>  
     </div>  
     <main>  
         <h2>Các món ăn vặt</h2>  
         <ul>  
-            <li><strong>Ten:</strong> <span>Dao Thanh Hoang</span></li>  
+            <li><strong>Ten:</strong> <span>Chau Huu Phuc Thinh</span></li>  
             <li><strong>Lop:</strong> <span>12L</span></li>  
-            <li><strong>Ngay sinh:</strong> <span>26/07/2007</span></li>  
-            <li><strong>Chieu cao:</strong> <span>170cm</span></li>  
-            <li><strong>Can nang:</strong> <span>65kg</span></li>
+            <li><strong>Ngay sinh:</strong> <span>03/12/2007</span></li>  
+            <li><strong>Chieu cao:</strong> <span>175cm</span></li>  
+            <li><strong>Can nang:</strong> <span>76kg</span></li>
 	  
 	
-<p><a href="https://www.facebook.com/daothanhhoangpro?mibextid=ZbWKwL"> Facebook cua Hoang</a></p> 
+<p><a href="https://www.facebook.com/chauhuu.phucthinh?mibextid=ZbWKwL"> Facebook cua Thinh</a></p> 
     </main>  
 </body>  
 </html>
