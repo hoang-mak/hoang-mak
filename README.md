@@ -1,24 +1,24 @@
-# web_tiemdoanvat_nhom2_lớp 12L
+ web_giới thiệu cá nhân
 <!DOCTYPE html>  
 <html>  
 <head>  
-    <title>Dao Thanh Hoang</title>  
+    <title>Châu Hữu Phúc Thịnh</title>  
 <head>
 <body>  
     <div>  
-        <h>1Chau Huu Phuc Thinh</h1>  
+        <h>1Châu Hữu Phúc Thịnh</h1>  
     </div>  
     <main>  
-        <h2>Các món ăn vặt</h2>  
+        <h2>Thông tin cá nhân</h2>  
         <ul>  
-            <li><strong>Ten:</strong> <span>Chau Huu Phuc Thinh</span></li>  
-            <li><strong>Lop:</strong> <span>12L</span></li>  
-            <li><strong>Ngay sinh:</strong> <span>03/12/2007</span></li>  
-            <li><strong>Chieu cao:</strong> <span>175cm</span></li>  
-            <li><strong>Can nang:</strong> <span>76kg</span></li>
+            <li><strong>Tên:</strong> <span>Châu Hữu Phúc Thịnh</span></li>  
+            <li><strong>Lớp:</strong> <span>12L</span></li>  
+            <li><strong>Ngày sinh:</strong> <span>26/07/2007</span></li>  
+            <li><strong>Chiều cao:</strong> <span>175cm</span></li>  
+            <li><strong>Cân nặng:</strong> <span>75kg</span></li>
 	  
 	
-<p><a href="https://www.facebook.com/chauhuu.phucthinh?mibextid=ZbWKwL"> Facebook cua Thinh</a></p> 
+<p><a href="https://www.facebook.com/chauhuu.phucthinh?mibextid=ZbWKwL"> Facebookcủa Thịnh</a></p> 
     </main>  
 </body>  
 </html>
