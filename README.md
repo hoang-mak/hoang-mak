@@ -18,7 +18,7 @@
             <li><strong>Can nang:</strong> <span>65kg</span></li>
 	  
 	<li><strong>Facebook ca nhan:</strong></li>
-	<p><a> href="https://www.facebook.com/daothanhhoangpro?mibextid=ZbWKwL"> </a></p>
+	<p><a href="https://www.facebook.com/daothanhhoangpro?mibextid=ZbWKwL"> Facebook cua Hoang/a></p>
         </ul>  
     </main>  
 </body>  
