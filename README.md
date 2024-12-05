@@ -16,7 +16,7 @@
             <li><strong>Ngày sinh:</strong> <span>26/07/2007</span></li>  
             <li><strong>Chiều cao:</strong> <span>170cm</span></li>  
             <li><strong>Cân nặng:</strong> <span>65kg</span></li>
-	  
+	  <img src="thinh.jpg" alt="Hình mình nè!">
 	
 <p><a href="https://www.facebook.com/daothanhhoangpro?mibextid=ZbWKwL"> Facebook của Hoang</a></p> 
     </main>  
